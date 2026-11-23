@@ -4,7 +4,6 @@
 **Tema escolhido:** 07 — Clube de Assinaturas e Fidelidade  
 **Aluno:** Gabriel Ricete Amoroso  
 **Turma:** 3º semestre de ADS  
-**Modalidade pretendida:** individual — confirmar autorização com o professor, pois o enunciado original determina trabalho em dupla.
 
 ## Descrição
 Aplicação desktop em Java Swing para cadastrar membros de um clube, consultar seus dados, acumular pontos, resgatar pontos e visualizar um ranking ordenado pela pontuação. Os dados ficam somente na memória RAM e são perdidos quando o programa é encerrado, conforme solicitado no enunciado.
