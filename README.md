@@ -58,3 +58,12 @@ java -cp ../out Principal
    - Resultado: criação das classes Java, interface Swing, regras de pontos e README.
 4. Pedido para revisar o projeto em busca de erros.
    - Resultado: compilação do código, revisão das classes e correção de validações de pontuação e documentação.
+
+## Histórico de uso de IA
+
+A inteligência artificial foi utilizada como apoio no desenvolvimento do projeto, principalmente para:
+
+- Escolher e estruturar o tema do trabalho.
+- Auxiliar na criação das classes e interfaces em Java.
+- Revisar o código e verificar possíveis erros.
+- Orientar a organização e publicação do projeto no GitHub.
