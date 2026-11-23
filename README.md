@@ -55,16 +55,7 @@ java -cp ../out Principal
 - Interface própria e polimorfismo (`Bonificavel`).
 - Checked Exception própria (`PontuacaoInsuficienteException`).
 - Tratamento de `NumberFormatException` e mensagens com `JOptionPane`.
-
-## Histórico de uso de IA
-O projeto foi elaborado com apoio de IA. Registro resumido dos pedidos feitos nesta conversa:
-1. Pedido para analisar o PDF e desenvolver o trabalho.
-   - Resultado: leitura dos requisitos e identificação dos dez temas.
-2. Pedido para escolher o tema mais simples.
-   - Resultado: escolha do tema 07, Clube de Assinaturas e Fidelidade.
 3. Pedido para montar o projeto.
    - Resultado: criação das classes Java, interface Swing, regras de pontos e README.
 4. Pedido para revisar o projeto em busca de erros.
    - Resultado: compilação do código, revisão das classes e correção de validações de pontuação e documentação.
-
-**Observação:** atualize este histórico se utilizar outros prompts ou fizer novas alterações com apoio de IA.
